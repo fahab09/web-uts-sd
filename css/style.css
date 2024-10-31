@@ -535,3 +535,27 @@ h6,
 a {
     text-decoration: none; /* Optional: Removes underline from the link */
 }
+
+.img-fluid-custom{
+    width: 70px;
+}
+
+.mb-45{
+    padding: 1rem;
+    font-size: 1rem;
+}
+
+.service-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.service-text .btn-sm {
+    display: flex;
+    margin-top: auto; /* Posisikan tombol di bagian bawah kontainer */
+}
+
+.p.mb-45 {
+    min-height: 100px; /* Atur tinggi minimum agar semua deskripsi sejajar */
+}
