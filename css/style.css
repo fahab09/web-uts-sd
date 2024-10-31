@@ -518,3 +518,10 @@ h6,
 .copyright a:hover {
     color: var(--primary);
 }
+
+/* For hover background color in bootstrap.min.css */
+.btn:hover,
+.btn:focus,
+.table-hover>tbody>tr:hover {
+    background-color: #ffa0a0; /* New red hover color */
+}
