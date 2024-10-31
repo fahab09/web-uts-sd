@@ -166,7 +166,7 @@ h6,
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: rgba(214, 214, 214, 0.08);
+    background: rgba(52, 52, 52, 0.416);
     z-index: 1;
 }
 
@@ -227,7 +227,7 @@ h6,
 /*** Facts & Quote ***/
 .facts,
 .quote {
-    background: rgba(214, 214, 214, 0.08);
+    background: rgba(52, 52, 52, 0.416);
 }
 
 
