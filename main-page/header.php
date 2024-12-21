@@ -33,14 +33,14 @@
 </head>
 
 <body>
-    <!-- Spinner Start -
+    <!-- Spinner Start -->
     <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;"></div>
     </div>
     <!-- Spinner End -->
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
-        <a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
+        <a href="index.php" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
             <img src="../img/logo.png" width="95px" alt="" srcset="">
             <p style="font-weight: 500; padding-top: 6%; font-size: 1.1rem;">SDN 07 Pelita Bangsa</p>
         </a>
@@ -49,11 +49,11 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="#" class="nav-item nav-link active">Beranda</a>
-                <a href="#about" class="nav-item nav-link">Tentang Kami</a>
-                <a href="#news" class="nav-item nav-link">Berita dan Galeri</a>
-                <a href="contact.html" class="nav-item nav-link">Hubungi Kami</a>
+                <a href="../main-page/index.php" class="nav-item nav-link active">Beranda</a>
+                <a href="../main-page/index.php#about" class="nav-item nav-link">Tentang Kami</a>
+                <a href="../main-page/index.php#news" class="nav-item nav-link">Berita dan Galeri</a>
+                <a href="../contact-page/contact.php" class="nav-item nav-link">Hubungi Kami</a>
             </div>
-            <a href="" class="btn btn-primary py-4 px-lg-4 rounded-0 d-none d-lg-block">Pendaftaran<i class="fa fa-arrow-right ms-3"></i></a>
+            <a href="../page-not-found/404.php" class="btn btn-primary py-4 px-lg-4 rounded-0 d-none d-lg-block">Pendaftaran<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
     </nav>

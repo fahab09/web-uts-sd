@@ -8,20 +8,20 @@
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+(021) 555-7890</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>sdn07.pelitabangsa@example.sch.id</p>
                     <div class="d-flex pt-2">
-                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i class="fab fa-youtube"></i></a>
-                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href="..\page-not-found\404.php"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href="..\page-not-found\404.php"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href="..\page-not-found\404.php"><i class="fab fa-youtube"></i></a>
+                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href="..\page-not-found\404.php"><i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-4">Ekstrakurikuler</h4>
-                    <a class="btn btn-link" href="">Pramuka</a>
-                    <a class="btn btn-link" href="">Klub Science</a>
-                    <a class="btn btn-link" href="">Klub Agama</a>
-                    <a class="btn btn-link" href="">Klub Robotik dan Coding</a>
-                    <a class="btn btn-link" href="">Klub Seni</a>
-                    <a class="btn btn-link" href="">Lihat Ekstrakurikuler Lainnya</a>
+                    <a class="btn btn-link" href="..\page-not-found\404.php">Pramuka</a>
+                    <a class="btn btn-link" href="..\page-not-found\404.php">Klub Science</a>
+                    <a class="btn btn-link" href="..\page-not-found\404.php">Klub Agama</a>
+                    <a class="btn btn-link" href="..\page-not-found\404.php">Klub Robotik dan Coding</a>
+                    <a class="btn btn-link" href="..\page-not-found\404.php">Klub Seni</a>
+                    <a class="btn btn-link" href="..\page-not-found\404.php">Lihat Ekstrakurikuler Lainnya</a>
                     
                 </div>
                 <div class="col-lg-3 col-md-6">
